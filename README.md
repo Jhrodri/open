@@ -1,0 +1,2 @@
+# open
+directorio abierto
